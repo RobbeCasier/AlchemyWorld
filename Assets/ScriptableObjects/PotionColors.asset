@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ede67ab629151a4b802605f6b9bc92f, type: 3}
+  m_Name: PotionColors
+  m_EditorClassIdentifier: 
+  LowHealthColor: {r: 0.9245283, g: 0.45790315, b: 0.45790315, a: 1}
+  HighHealthColor: {r: 0.6415094, g: 0, b: 0, a: 1}
+  LowManaColor: {r: 0.4812656, g: 0.49507618, b: 0.990566, a: 1}
+  HighManaColor: {r: 0, g: 0.018940566, b: 0.8207547, a: 1}
+  LowBuffColor: {r: 0, g: 0, b: 0, a: 1}
+  HighBuffColor: {r: 0, g: 0.6509434, b: 0.040964402, a: 1}
+  LowDebuffColor: {r: 0, g: 0, b: 0, a: 1}
+  HighDebuffColor: {r: 0.7264151, g: 0.68532735, b: 0.07195621, a: 1}
+  WaterColor: {r: 0.2216981, g: 0.2685177, b: 1, a: 1}

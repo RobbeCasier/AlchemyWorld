@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c154a8cbe6d673c41b7f55fb53209308, type: 3}
+  m_Name: CustomerInitData
+  m_EditorClassIdentifier: 
+  repData:
+  - MinGold: 20
+    MaxGold: 50
+    MinEffects: 1
+    MaxEffects: 1
+    MaxAmountOfPotions: 1
+  - MinGold: 40
+    MaxGold: 100
+    MinEffects: 1
+    MaxEffects: 2
+    MaxAmountOfPotions: 2
+  - MinGold: 80
+    MaxGold: 120
+    MinEffects: 1
+    MaxEffects: 2
+    MaxAmountOfPotions: 3
+  - MinGold: 100
+    MaxGold: 150
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 4
+  - MinGold: 120
+    MaxGold: 180
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 5
+  - MinGold: 140
+    MaxGold: 200
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 6
+  - MinGold: 160
+    MaxGold: 220
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 7
+  - MinGold: 180
+    MaxGold: 250
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 8
+  - MinGold: 200
+    MaxGold: 280
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 9
+  - MinGold: 240
+    MaxGold: 300
+    MinEffects: 1
+    MaxEffects: 3
+    MaxAmountOfPotions: 10

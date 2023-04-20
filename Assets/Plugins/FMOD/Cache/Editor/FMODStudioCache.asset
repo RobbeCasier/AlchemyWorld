@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9084518779729363187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cash/CashOut
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cash/CashOut
+  Guid:
+    Data1: -498209759
+    Data2: 1305217177
+    Data3: -2058349162
+    Data4: -187681220
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 568
+--- !u!114 &-8564194612289523190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cork/CorkOn
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cork/CorkOn
+  Guid:
+    Data1: -1799520464
+    Data2: 1091290180
+    Data3: -1283983452
+    Data4: -1273327169
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 461
+--- !u!114 &-8421963662369387642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cash/CashIn
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cash/CashIn
+  Guid:
+    Data1: -1156635350
+    Data2: 1218056089
+    Data3: -979337596
+    Data4: 1027958661
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &-7932602009997294756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/ShopMusic
+  m_EditorClassIdentifier: 
+  Path: event:/Music/ShopMusic
+  Guid:
+    Data1: 36421532
+    Data2: 1190557387
+    Data3: 2077570443
+    Data4: 1252022820
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 150936
+--- !u!114 &-3522519609875151611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cauldron/StickAgainstCauldron
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cauldron/StickAgainstCauldron
+  Guid:
+    Data1: 1124030798
+    Data2: 1122708840
+    Data3: -29694567
+    Data4: -1274385286
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 284
+--- !u!114 &-1037222439184155956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cork/CorkOff
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cork/CorkOff
+  Guid:
+    Data1: -541488853
+    Data2: 1158060367
+    Data3: -970406779
+    Data4: -947305806
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 805
+--- !u!114 &-416880884531979448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cauldron/Boil
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cauldron/Boil
+  Guid:
+    Data1: -13153020
+    Data2: 1313124574
+    Data3: -551827559
+    Data4: -1181592630
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3896
+--- !u!114 &-192154070609644977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Main.bank
+  m_EditorClassIdentifier: 
+  Path: AlchemyProjectFMOD/Build/Desktop/Main.bank
+  Name: Main
+  StudioPath: bank:/Main
+  lastModified: 638169146717381827
+  FileSizes:
+  - Name: Desktop
+    Value: 2332256
+  - Name: Mobile
+    Value: 1629120
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 1409608493753340982}
+  - {fileID: 6012969974879826753}
+  - {fileID: -192154070609644977}
+  EditorEvents:
+  - {fileID: -7932602009997294756}
+  - {fileID: -416880884531979448}
+  - {fileID: -9084518779729363187}
+  - {fileID: -8421963662369387642}
+  - {fileID: -1037222439184155956}
+  - {fileID: -8564194612289523190}
+  - {fileID: -3522519609875151611}
+  - {fileID: 3850934567896273530}
+  - {fileID: 2435092435466025872}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 6012969974879826753}
+  StringsBanks:
+  - {fileID: 1409608493753340982}
+  cacheTime: 638169146717464127
+  cacheVersion: 131591
+--- !u!114 &1409608493753340982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: AlchemyProjectFMOD/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638169146717464127
+  FileSizes:
+  - Name: Desktop
+    Value: 1234
+  - Name: Mobile
+    Value: 1234
+  Exists: 1
+--- !u!114 &2435092435466025872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/WaterImpact
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/WaterImpact
+  Guid:
+    Data1: 524465355
+    Data2: 1080240960
+    Data3: -767596650
+    Data4: -1239763577
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &3850934567896273530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/FlipPage
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/FlipPage
+  Guid:
+    Data1: -457271723
+    Data2: 1079643031
+    Data3: 313227401
+    Data4: -1131553800
+  Banks:
+  - {fileID: -192154070609644977}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &6012969974879826753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: AlchemyProjectFMOD/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638169146717428072
+  FileSizes:
+  - Name: Desktop
+    Value: 1036
+  - Name: Mobile
+    Value: 1036
+  Exists: 1

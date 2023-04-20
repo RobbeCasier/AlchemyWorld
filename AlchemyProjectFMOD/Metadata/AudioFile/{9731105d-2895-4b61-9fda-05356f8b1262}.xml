@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9731105d-2895-4b61-9fda-05356f8b1262}">
+		<property name="assetPath">
+			<value>StickHitCauldron.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.28399092970521544</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2d6817e1-2539-4351-b808-a927f28cf5b5}</destination>
+		</relationship>
+	</object>
+</objects>

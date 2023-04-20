@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a5c2e72b-5331-4b8b-addc-95f356adbe4e}">
+		<property name="name">
+			<value>StirSpeed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e3536c0b-1653-43cc-b8d1-d714ee6089dd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{45d5615d-59d9-4c08-ab00-f7bb681c88ae}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{45d5615d-59d9-4c08-ab00-f7bb681c88ae}">
+		<property name="parameterType">
+			<value>8</value>
+		</property>
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
